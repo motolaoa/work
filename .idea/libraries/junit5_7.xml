@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="junit5.7">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../工具包/junit5.7.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../工具包/junit5.7.0" recursive="false" />
+  </library>
+</component>
